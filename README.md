@@ -1,2 +1,8 @@
 # MyContacts
-Kotlin Navigation Component DataBinding Fragment Retrofit practice
+Kotlin 
+Navigation Component 
+DataBinding 
+Fragment 
+Retrofit 
+OOP 
+database practice 
